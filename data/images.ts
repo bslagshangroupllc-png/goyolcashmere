@@ -14,7 +14,7 @@ const generateProductAssets = (id: number, galleryCount: number) => ({
 });
 
 export const imageAssets = {
-  logo: imagePath('logo.png'),
+  logo: imagePath('logo1.png'),
   
   // Product Images
   product1: generateProductAssets(1, 4),
